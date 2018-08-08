@@ -1,0 +1,27 @@
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Debug\PhoenixEDT.exe.config
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Debug\PhoenixEDT.exe
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Debug\PhoenixEDT.pdb
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.csprojResolveAssemblyReference.cache
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.Form1.resources
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.Properties.Resources.resources
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.csproj.GenerateResource.Cache
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.exe
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.pdb
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Debug\PhoenixEDT.exe.manifest
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Debug\PhoenixEDT.application
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.exe.manifest
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Debug\PhoenixEDT.application
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\bin\Debug\PhoenixEDT.exe.config
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\bin\Debug\PhoenixEDT.exe.manifest
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\bin\Debug\PhoenixEDT.application
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\bin\Debug\PhoenixEDT.exe
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\bin\Debug\PhoenixEDT.pdb
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.csprojResolveAssemblyReference.cache
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.Form1.resources
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.Properties.Resources.resources
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.csproj.GenerateResource.Cache
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.csproj.CoreCompileInputs.cache
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.exe.manifest
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.application
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.exe
+C:\Users\ac\Documents\GitHub\EDT\PhoenixEDT\obj\Debug\PhoenixEDT.pdb

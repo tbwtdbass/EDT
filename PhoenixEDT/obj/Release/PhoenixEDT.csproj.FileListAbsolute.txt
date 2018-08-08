@@ -1,0 +1,13 @@
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Release\PhoenixEDT.exe.config
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Release\PhoenixEDT.exe.manifest
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Release\PhoenixEDT.application
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Release\PhoenixEDT.exe
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\bin\Release\PhoenixEDT.pdb
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.Form1.resources
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.Properties.Resources.resources
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.csproj.GenerateResource.Cache
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.exe.manifest
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.application
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.exe
+c:\users\acurline\documents\visual studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.pdb
+C:\Users\acurline\Documents\Visual Studio 2015\Projects\PhoenixEDT\PhoenixEDT\obj\Release\PhoenixEDT.csprojResolveAssemblyReference.cache
